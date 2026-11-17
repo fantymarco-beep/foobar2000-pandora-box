@@ -1,0 +1,7 @@
+# Temporary & cache files
+*.tmp
+*.log
+crash*.dump
+running
+*.sqlite-journal
+metadb.sqlite*
